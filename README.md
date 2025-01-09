@@ -1,6 +1,6 @@
 # Customer_churn_prediction
 
-#With customer churn remaining a crucial issue for most businesses today, this study
+ With customer churn remaining a crucial issue for most businesses today, this study
  predicts the factors resulting in customer churn using the Telco Customer Churn
  dataset. The models, logistic regression, K-Nearest Neighbors (KNN) and random forest
  are employed for prediction. The random forest model, which has the highest accuracy,
@@ -10,7 +10,7 @@
 
  # Key Insights-->
  
- #This study reveals that tenure, contract type, payment method, and monthly
+ This study reveals that tenure, contract type, payment method, and monthly
  charges are the key factors leading to churn.
  
  ❖ Shorter tenures are associated with higher churn risk.
