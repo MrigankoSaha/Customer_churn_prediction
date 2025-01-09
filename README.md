@@ -12,10 +12,14 @@
  
  #This study reveals that tenure, contract type, payment method, and monthly
  charges are the key factors leading to churn.
+ 
  ❖ Shorter tenures are associated with higher churn risk.
+ 
  ❖ Longer-term contracts likely reduce churn compared to month-to-month plans.
+ 
  ❖ Customers with auto-payment methods are less likely to churn compared to
  those using electronic checks
+ 
  ❖ Monthly charges underscore the importance of pricing, as higher costs may
  increase dissatisfaction and lead to churn.
 
